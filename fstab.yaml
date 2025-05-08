@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p63456-e1446619.adobeaemcloud.com/bin/franklin.delivery/kylebuch8/gems/main"
+    url: "https://author-p63456-e1135236.adobeaemcloud.com/bin/franklin.delivery/kylebuch8/gems/main"
     type: "markup"
     suffix: ".html"
